@@ -1,0 +1,7 @@
+{
+  "name": "Sistem AP-TMAT",
+  "description": "Sistem Analisis Tinggi Muka Air Tanah (TMAT) berbasis IoT untuk pemantauan lahan gambut secara real-time.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
